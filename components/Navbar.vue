@@ -86,7 +86,7 @@ function css (el, property) {
 </script>
 
 <style lang="stylus" scoped>
-  @import './styles/config.styl'
+  @import '../styles/config.styl'
 
   .navbar {
     display: flex;
