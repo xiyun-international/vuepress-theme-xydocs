@@ -20,6 +20,7 @@ $ npm install -D vuepress@next
 
 ```shell
 $ yarn add -D @xiyun/vuepress-theme-xydocs
+或
 $ npm install -D @xiyun/vuepress-theme-xydocs
 ```
 
